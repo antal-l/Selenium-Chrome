@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node amazon_test01"
+    "test": "node decathlon_test01"
   },
   "keywords": [],
   "author": "",
