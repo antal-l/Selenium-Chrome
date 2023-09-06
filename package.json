@@ -1,0 +1,16 @@
+{
+  "name": "selenium-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node amazon_test01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^116.0.0",
+    "selenium-webdriver": "^4.12.0"
+  }
+}
