@@ -4,13 +4,16 @@
   "description": "",
   "main": "amazon_test01.js",
   "scripts": {
-    "test": "node text_verification_test.js"
+    "test": "node decathlon_test01.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chromedriver": "^118.0.1",
+    "chromedriver": "^120.0.1",
     "selenium-webdriver": "^4.14.0"
+  },
+  "dependencies": {
+    "ChromeDriver": "npm:chromedriver@^118.0.1"
   }
 }
